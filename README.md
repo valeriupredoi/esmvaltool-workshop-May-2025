@@ -12,7 +12,7 @@
     - support for Python 3.12 and Numpy 2+
   - [many thanks Saskia for v2.12](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/changelog.html#v2-12-0):
     - overhauling configuration, make it more accessible and modular
-    - myltiple Dask configuration improvements
+    - multiple Dask configuration improvements
     - support for Python 3.13
 - Main focus so far was making preprocessors lazy and determine optimal Dask settings to run
   heavy computations: many thanks to all who worked on that, especially Bouwe and Manuel!
