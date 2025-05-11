@@ -1,7 +1,7 @@
 ## Technical Update (13 May 2025)
 ### V Predoi and the TLT (Technical Lead Team)
 
-- [Workshop Agenda](https://github.com/valeriupredoi/esmvaltool-workshop-May-2025.git)
+- [Workshop Agenda](https://github.com/ESMValGroup/Community/discussions/215)
 
 ### So far...(since the last workshop)
 
